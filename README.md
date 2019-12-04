@@ -1,8 +1,8 @@
 # VueJS_TODOLIST
-Simple TODO list implementation using VueJS\n
+Simple TODO list implementation using VueJS\
 Try It Out => https://simpletodo-brian.netlify.com/
-
-
+\
+\
 <a href="https://media.giphy.com/media/xUA7b0Klw8Wfor7FWo/giphy.gif"><img src="https://media.giphy.com/media/xUA7b0Klw8Wfor7FWo/giphy.gif"/></a>
 
 
