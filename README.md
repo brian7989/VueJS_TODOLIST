@@ -1,7 +1,9 @@
 # VueJS_TODOLIST
 Simple TODO list implementation using VueJS
 
-<a href="https://media.giphy.com/media/3ohzgD1wRxpvpkDCSI/giphy.gif"><img src="https://media.giphy.com/media/3ohzgD1wRxpvpkDCSI/giphy.gif"/></a>
+
+<a href="https://media.giphy.com/media/xUA7b0Klw8Wfor7FWo/giphy.gif"><img src="https://media.giphy.com/media/xUA7b0Klw8Wfor7FWo/giphy.gif"/></a>
+
 
 **Main Concepts**
 
