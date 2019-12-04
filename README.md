@@ -1,4 +1,4 @@
-# Simple TODO List using VueJS
+# Simple TODO List Using VueJS
 Simple TODO list implementation using VueJS\
 Try it out [HERE](https://simpletodo-brian.netlify.com/) !
 \
@@ -18,6 +18,6 @@ Try it out [HERE](https://simpletodo-brian.netlify.com/) !
 * Data Transfer via Props & Events ($emit)
 * Life Cycle Hooks (Created())
 
-**Deployment **
+**Deployment**
 
 Used Netlify
