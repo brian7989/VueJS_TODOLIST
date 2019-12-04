@@ -1,4 +1,4 @@
-# VueJS_TODOLIST
+# Simple TODO List using VueJS
 Simple TODO list implementation using VueJS\
 Try it out [HERE](https://simpletodo-brian.netlify.com/) !
 \
