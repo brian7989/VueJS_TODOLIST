@@ -17,3 +17,7 @@ Try it out [HERE](https://simpletodo-brian.netlify.com/) !
 * Nesting Components
 * Data Transfer via Props & Events ($emit)
 * Life Cycle Hooks (Created())
+
+**Deployment **
+
+Used Netlify
