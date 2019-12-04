@@ -7,7 +7,7 @@ Simple TODO list implementation using VueJS
 
 **Main Concepts**
 
-* Data Biding (One Way & Two Ways)
+* Data Binding (One Way & Two Ways)
 * Event Handling
 * Computed Properties
 * Methods
